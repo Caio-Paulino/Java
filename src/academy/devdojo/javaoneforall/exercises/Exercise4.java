@@ -2,7 +2,7 @@ package academy.devdojo.javaoneforall.exercises;
 
 import java.util.Scanner;
 
-public class ExerciseFour {
+public class Exercise4 {
 
     public static void main(String[] args) {
         int number, sucessor, predecessor;

@@ -2,7 +2,7 @@ package academy.devdojo.javaoneforall.exercises;
 
 import java.util.Scanner;
 
-public class ExerciseSeven {
+public class Exercise7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Type a value to tell if is higher than 10");

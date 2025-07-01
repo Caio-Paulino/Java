@@ -2,7 +2,7 @@ package academy.devdojo.javaoneforall.exercises;
 
 import java.util.Scanner;
 
-public class ExerciseSix {
+public class Exercise6 {
     public static void main(String[] args) {
         double number;
 

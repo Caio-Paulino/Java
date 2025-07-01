@@ -2,7 +2,7 @@ package academy.devdojo.javaoneforall.exercises;
 
 import java.util.Scanner;
 
-public class ExerciseFive {
+public class Exercise5 {
 
     public static void main(String[] args) {
         double baseSalary = 1293;

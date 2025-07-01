@@ -2,7 +2,7 @@ package academy.devdojo.javaoneforall.exercises;
 
 import java.util.Scanner;
 
-public class ExerciseTwo {
+public class Exercise2 {
     public static void main(String[] args) {
         int number;
 
